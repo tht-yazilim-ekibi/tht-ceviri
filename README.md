@@ -1,4 +1,4 @@
 # THT Çeviri
 
-![](image/resim.jpg)
+![](image/1.jpg)
 ----------------------------------
